@@ -44,7 +44,7 @@
 #define GRADIENT_LAYER_HPP_
 
 #include "rclcpp/rclcpp.hpp"
-#include "nav2_costmap_2d/layer.hpp"
+#include "nav2_costmap_2d/costmap_layer.hpp"
 #include "nav2_costmap_2d/layered_costmap.hpp"
 
 namespace nav2_gradient_costmap_plugin
